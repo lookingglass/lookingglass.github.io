@@ -2,4 +2,4 @@
 title: test
 layout: home
 ---
-another
+index page
