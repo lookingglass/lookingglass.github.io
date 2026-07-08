@@ -33,10 +33,4 @@ If you want to maintain your docs in the `docs` directory of an existing project
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
 
----
-title: Home2
-layout: home
----
-test
-
 
