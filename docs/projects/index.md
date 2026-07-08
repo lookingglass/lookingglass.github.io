@@ -1,6 +1,7 @@
 ---
-title: projects
+title: Projects
+layout: home
 nav_order: 2
 has_children: true
 ---
-index page
+projects page
