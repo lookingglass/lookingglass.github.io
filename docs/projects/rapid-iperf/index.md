@@ -5,7 +5,7 @@ parent: Projects
 ---
 # [rapid-iperf](https://github.com/lookingglass/rapid-iperf)
 <p align=center>
-   <img src="https://i.imgur.com/G8lJttS.png" width="50%">
+   <img src="https://i.imgur.com/G8lJttS.png" width="80%">
 </p>
 <p align="center">
   🚀 <strong>Interactive CLI Bash utility for running iperf3 network tests with automatic servers from public lists</strong>
