@@ -33,9 +33,8 @@ Initially i struggled a problem finding iperf3 servers. You find some iperf3 ser
 
 ## 🧠 How it works?
 This tool automatically downloads and parses public iperf3 servers from:
-1. https://github.com/itdoginfo/russian-iperf3-servers
-2. https://iperf3serverlist.net
----
+1. `https://github.com/itdoginfo/russian-iperf3-servers`
+2. `https://iperf3serverlist.net`
 
 ## 🚀 Installation & Run
 
